@@ -9,6 +9,28 @@
       "id": 2,
       "title": "Second Article",
       "content": "This is also an example."
+    },
+    {
+      "title": "Third Article",
+      "content": "Sent via Postman",
+      "id": 3
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "title": "JavaScript",
+      "author": "Rhoda Gachimu"
+    },
+    {
+      "id": 2,
+      "title": "You know JS",
+      "author": "Margaret Shipman"
+    },
+    {
+      "title": "A dummy book for JavaScript",
+      "author": "Mohan",
+      "id": 3
     }
   ]
 }
